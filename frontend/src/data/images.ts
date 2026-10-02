@@ -1,0 +1,21 @@
+export const images = {
+  hero: "/df677bf8-fb22-4e37-bb63-7357630eabb3.jpg",
+  maasaiMara: "/ec4c2da4-f351-4d51-8e78-e52cb6eced28.jpg",
+  amboseli: "/cf16706a-4526-405f-9208-9aa13aee2b23.jpg",
+  diani: "/2233375d-747d-4290-8965-56ce7c633492.jpg",
+  lamu: "/313822aa-c36b-472b-b806-480051478ca0.jpg",
+  nakuru: "/1a24ec51-381f-440d-8f0c-d69ab0435250.jpg",
+  mountKenya: "/ce2c1d9f-2390-403d-a2e5-f6b233d73a1b.jpg",
+  nairobi: "/318aeb37-b030-456b-b883-0aaee792c436.jpg",
+  mombasa: "/90ab3688-3231-4f89-bbdc-4a671e4ad812.jpg",
+  safari: "/4a3f3f61-c7e7-4882-8d7f-8c4d07c24090.jpg",
+  culture: "/bcecfbae-52f0-494f-a24e-1c72ce33d1b7.jpg",
+  food: "/e7f3eedc-8edb-466e-99f4-2c9089ee4c45.jpg",
+  outdoor: "/20002b65-2a7a-45ec-9407-243bdcf5a254.jpg",
+  camp: "/a7b50f0b-3f47-4eac-8aab-81b73622d848.jpg",
+  packing: "/e90bf504-00da-4139-b305-e6ac0f810bec.jpg",
+  balloon: "/13354a9e-3d83-4ad4-814c-f74b85a10d8e.jpg",
+  avatar1: "/104c21f1-82c7-4b13-b7ee-50f0e81efeae.jpg",
+  avatar2: "/103f2d2b-54b5-49ab-bcfe-b1c92af1f037.jpg",
+  avatar3: "/21845763-f112-4850-80f8-7a5962a62b76.jpg"
+};
